@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <version>1</version>
+    <item drawable="sketchware" />
+    <item drawable="sketchware_pro" />
+    <item drawable="gallery" />
+</resources>

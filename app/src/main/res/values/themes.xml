@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme">
+        <!-- Placeholder cause android stupid -->
+    </style>
+    <!-- Base application theme. -->
+    <style name="Theme.QirklsIcons" parent="Theme">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3Dridlly Extended</string>
+    <bool name="config_iconpack">true</bool>
+
+    <!-- Icon descs -->
+    <string name="sketchware">Sketchware</string>
+    <string name="sketchware_pro">Sketchware Pro</string>
+    <string name="gallery">Gallery</string>
+</resources>

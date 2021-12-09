@@ -1,0 +1,13 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<resources>
+
+    <!-- Sketchware -->
+    <item component="ComponentInfo{com.besome.sketch/com.besome.sketch.MainActivity}" drawable="sketchware" />
+
+    <!-- Sketchware Pro -->
+    <item component="ComponentInfo{com.sketchware.tn/com.besome.sketch.MainActivity}" drawable="sketchware_pro" />
+
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack" translatable="false">
+        <item>sketchware</item>
+        <item>sketchware_pro</item>
+        <item>gallery</item>
+    </string-array>
+</resources>
